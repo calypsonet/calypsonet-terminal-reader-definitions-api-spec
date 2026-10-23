@@ -2,7 +2,7 @@
 title
     <img:assets/logos/calypso.svg{scale=0.2}>
 
-    Terminal Reader Definitions API 1.0.+ (2026-05-26)
+    Terminal Reader Definitions API 1.0 — UML Class Diagram
 end title
 
 ' == THEME (class) ==
@@ -96,5 +96,9 @@ enum "CardType" as CardType <<green>> {
 ' == STYLE ==
 
 package api #C_GREY1 {}
+
+center footer
+<size:10><color:#566573>Terminal Reader Definitions API 1.0 (2026-07-20) — CNA-TRD-API — Copyright © Calypso Networks Association — CC BY-ND 4.0 (https://creativecommons.org/licenses/by-nd/4.0/) — https://docs.terminal-api.calypsonet.org</color></size>
+end footer
 
 @enduml
