@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "calypsonet-terminal-reader-definitions-uml-api"
-repository: "calypsonet-terminal-reader-definitions-uml-api"
+title: "calypsonet-terminal-reader-definitions-api-spec"
+repository: "calypsonet-terminal-reader-definitions-api-spec"
 latest_stable: ""
+latest_stable_path: ""
 versions:
   - version: "1.0.0-SNAPSHOT"
     status: snapshot
