@@ -17,7 +17,7 @@ versions:
         size: "1.3 MB"
       pdf:
         name: "YYMMDD-SP-CNATerminalAPI-ReaderDefinitions_v1.0.0-SNAPSHOT.pdf"
-        size: "510 kB"
+        size: "511 kB"
 ---
 
 {% include specification-versions.html %}
