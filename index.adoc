@@ -11,7 +11,7 @@
 :doc-classification: Public
 :doc-id: CNA-TRD-API
 :doc-ref: YYMMDD-SP-CNATerminalAPI-ReaderDefinitions
-:doc-repo: https://github.com/calypsonet/calypsonet-terminal-reader-definitions-uml-api
+:doc-repo: https://github.com/calypsonet/calypsonet-terminal-reader-definitions-api-spec
 include::assets/logos/_terminal-api.adoc[]
 include::assets/legal/_license-cc-by-nd-4.0.adoc[]
 //
