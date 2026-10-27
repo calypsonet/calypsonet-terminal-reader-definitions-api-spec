@@ -2,6 +2,7 @@
 layout: default
 title: "calypsonet-terminal-reader-definitions-api-spec"
 repository: "calypsonet-terminal-reader-definitions-api-spec"
+doc_name: "Terminal Reader Definitions API"
 latest_stable: ""
 latest_stable_path: ""
 versions:
