@@ -10,14 +10,14 @@
 :doc-type: Specification
 :doc-classification: Public
 :doc-id: CNA-TRD-API
-:doc-ref: YYMMDD-SP-CNATerminalAPI-ReaderDefinitions
+:doc-ref: 261028-SP-CNATerminalAPI-ReaderDefinitions
 :doc-repo: https://github.com/calypsonet/calypsonet-terminal-reader-definitions-api-spec
 include::assets/logos/_terminal-api.adoc[]
 include::assets/legal/_license-cc-by-nd-4.0.adoc[]
 //
 // Revision (bumped every edition)
 :revnumber: 1.0.0-SNAPSHOT
-:revdate: 2026-07-20
+:revdate: 2026-10-28
 // API version exposed by the VERSION constant: MAJOR.MINOR of revnumber
 :api-version: 1.0
 //

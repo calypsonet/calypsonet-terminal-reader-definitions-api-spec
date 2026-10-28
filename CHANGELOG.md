@@ -16,5 +16,9 @@ applied to the specified contract:
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-10-28
 ### Added
 - Initial baseline (v1.0.0) of the Terminal Reader Definitions API specification.
+
+[unreleased]: https://github.com/calypsonet/calypsonet-terminal-reader-definitions-api-spec/compare/1.0.0...HEAD
+[1.0.0]: https://github.com/calypsonet/calypsonet-terminal-reader-definitions-api-spec/releases/tag/1.0.0
