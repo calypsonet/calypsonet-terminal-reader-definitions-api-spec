@@ -10,7 +10,7 @@ versions:
     status: stable
     files:
       diagram:
-        name: "class-diagram.svg"
+        name: "261028-SP-CNATerminalAPI-ReaderDefinitions_v1.0.0-class-diagram.svg"
         size: "28 kB"
       html:
         name: "261028-SP-CNATerminalAPI-ReaderDefinitions_v1.0.0.html"
